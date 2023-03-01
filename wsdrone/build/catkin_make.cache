@@ -1,0 +1,2 @@
+ROSDrone/ardrone_as:ROSDrone/custom_teleop:ROSDrone/drone_construct:ROSDrone/drone_demo
+-DCATKIN_DEVEL_PREFIX=/home/ducanh/wsdrone/devel -DCMAKE_INSTALL_PREFIX=/home/ducanh/wsdrone/install -G Unix Makefiles
